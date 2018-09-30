@@ -1,2 +1,2 @@
 # leetcode
-algroithm
+try to implement algroithm, in order to improve personal programming ability.
